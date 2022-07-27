@@ -1,0 +1,26 @@
+a{
+    text-decoration: none;
+    
+}
+
+section.slider {
+    margin-top: 30px;
+}
+
+/* Courses area  */
+.courses-area {
+    margin-top: 115px;
+}
+
+.courses-area .course-title h1 {
+    text-align: center;
+    font-size: 3rem;
+}
+
+.courses-area .course-title p {
+    text-align: center;
+    font-size: 1.1rem;
+    width: 50%;
+    margin: auto;
+}
+
