@@ -30,3 +30,15 @@ section.slider {
     display: grid;
     align-content: center;
 }
+
+
+/* Ready to join Part  */
+
+.row.row-cols-2.bg-info.p-5.padding-part {
+    padding: 85px !important;
+}
+.regi-btn {
+    margin-left: 355px;
+    margin-top: 50px;
+    padding: 12px 40px !important;
+}
