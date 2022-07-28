@@ -24,3 +24,9 @@ section.slider {
     margin: auto;
 }
 
+/* Explore Area  */
+
+.explore-text {
+    display: grid;
+    align-content: center;
+}
